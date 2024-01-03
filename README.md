@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kingz
+- 👀 I’m interested in python
+- 🌱 I’m currently learning Node.js
+- 📫 How to reach me srkingz@voyaxhosting.de
